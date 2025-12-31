@@ -1,2 +1,2 @@
 # A-Semi-Supervised-Learning-Approach-for-Pulse-Like-Ground-Motion-Identification
-Code for pulse-like ground motion identification model using Semi-supervised Ensemble Curriculum Learning.
+This repository contains the official code implementation for the paper: **"From Few Labels to Robust Classification: A Semi-Supervised Learning Approach for Pulse-Like Ground Motion Identification"**.
